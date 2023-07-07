@@ -1,0 +1,46 @@
+#include <stdio.h>
+#include <unistd.h>
+#include <math.h>
+int main (void)
+{
+int one = 1;
+printf("P");
+
+printf("L");
+
+printf("A");
+
+printf("Y");
+
+printf("E");
+
+printf("R");
+
+printf("_");
+
+printf("_");
+
+printf("V");
+
+printf("S");
+
+printf("_");
+
+printf("_");
+
+printf("M");
+
+printf("A");
+
+printf("T");
+
+printf("H\n");
+
+printf("Hello, player.\n");
+printf("You can refer to me as null.\n");
+printf("You are stuck in this math world with me.\n");
+printf("See if you can escape.\n");
+
+
+
+}
